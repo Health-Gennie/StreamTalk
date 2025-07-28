@@ -1,4 +1,3 @@
-🔸 Expanded Description:
 This repository provides all the necessary front-end resources (JavaScript, CSS, and custom scripts) for integrating Health Gennie’s video calling system into any third-party healthcare or partner application.
 
 The integration is intended to allow doctors using the Health Gennie platform to initiate secure, real-time video calls with users or systems on the partner's side. This tool is built to be lightweight, easy to integrate, and fully documented for developers.
